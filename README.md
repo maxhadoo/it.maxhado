@@ -1,6 +1,6 @@
 # it.maxhado
 Boas vindas ao meu perfil!
-Sou a isabella, estudande do ensino médio.
+Sou a isabella, estudante do ensino médio.
 
 Estou estudando no Alura.
 Estou me desenvolvendo na Linguagem JavaScript.
